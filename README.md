@@ -5,4 +5,4 @@ The collision detection on the blocks' sides is not perfect (I am currently work
 
 Sample output (try it!!!):
 
-![image](https://user-images.githubusercontent.com/79820336/168334885-1ba7f6fc-853d-46c7-9984-22a083f399ff.png)
+![image](https://user-images.githubusercontent.com/79820336/168335584-31cc6580-5e9b-4a5c-b1fc-a3066c90792b.png)
